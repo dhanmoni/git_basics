@@ -39,3 +39,7 @@
 ### docorate branches
 
 - git log --graph --oneline --decorate
+
+### remove files from staging
+
+- git rm --cached filename
